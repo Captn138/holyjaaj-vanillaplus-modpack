@@ -1,4 +1,0 @@
-reduceFPSWhenUnfocused = true
-unfocusedFPS = 30
-restoreFPSWhenHovered = true
-runGCOnUnfocus = false
