@@ -15,7 +15,6 @@ You will also need Java version 17 to run the server.
 - Appleskin
 - Architectury
 - Bad Packets
-- Chicken Chunks
 - Cloth Config
 - Clumps
 - Controlling
@@ -25,6 +24,7 @@ You will also need Java version 17 to run the server.
 - Fabric API
 - Fabric Language Kotlin
 - Ferrite Core
+- Higl Level Enchants
 - Holycube 6 Mod
 - Holy Wrench
 - Inventory HUD
@@ -35,10 +35,12 @@ You will also need Java version 17 to run the server.
 - Lamb Dynamic Lights
 - Light Overlay
 - Lithium
+- Luck Perms
 - Mod Menu
 - Mouse Tweaks
 - Roughly Enough Items
 - Simple Voice Chat
+- Sleep Warp
 - Sodium
 - Starlight
 - Wraith Waystones
