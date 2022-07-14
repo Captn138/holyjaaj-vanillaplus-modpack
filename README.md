@@ -36,6 +36,7 @@ You will also need Java version 17 to run the server.
 - Light Overlay
 - Lithium
 - Luck Perms
+- Minecraft Capes
 - Mod Menu
 - Mouse Tweaks
 - Roughly Enough Items
