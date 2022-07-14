@@ -18,7 +18,6 @@ You will also need Java version 17 to run the server.
 - Cloth Config
 - Clumps
 - Controlling
-- Custom Capes
 - Damage Tilt
 - Dynamic FPS
 - Easier Villager Trading
@@ -37,6 +36,7 @@ You will also need Java version 17 to run the server.
 - Light Overlay
 - Lithium
 - Luck Perms
+- Minecraft Capes
 - Mod Menu
 - Mouse Tweaks
 - Roughly Enough Items
