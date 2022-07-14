@@ -18,6 +18,7 @@ You will also need Java version 17 to run the server.
 - Cloth Config
 - Clumps
 - Controlling
+- Custom Capes
 - Damage Tilt
 - Dynamic FPS
 - Easier Villager Trading
