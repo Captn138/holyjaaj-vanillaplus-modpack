@@ -18,6 +18,7 @@ You will also need Java version 17 to run the server.
 - Cloth Config
 - Clumps
 - Controlling
+- Continuity
 - Damage Tilt
 - Dynamic FPS
 - Easier Villager Trading
@@ -27,6 +28,7 @@ You will also need Java version 17 to run the server.
 - Higl Level Enchants
 - Holycube 6 Mod
 - Holy Wrench
+- Indium
 - Inventory HUD
 - Iris
 - Jade
