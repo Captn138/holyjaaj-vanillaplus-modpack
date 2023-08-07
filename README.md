@@ -3,10 +3,8 @@
 ## Client-side
 Download the latest version of the modpack via [Technic Launcher](https://www.technicpack.net/modpack/holyjaaj.1931807).
 
-To edit, clone the repo and look at the `client` folder.
-
 ## Server side
-Download the latest version of the server files [here](https://github.com/Captn138/holyjaaj-vanillaplus-modpack/raw/main/server/server.zip).
+Download the latest version of the server files [here](https://github.com/Captn138/holyjaaj-vanillaplus-modpack-server/releases/latest/download/server.zip).
 You will need to add the [fabric mod loader](https://fabricmc.net/) in version `1.18.2`.
 You will also need Java version 17 to run the server.
 
