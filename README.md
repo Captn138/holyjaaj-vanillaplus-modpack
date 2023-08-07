@@ -25,7 +25,7 @@ You will also need Java version 17 to run the server.
 - Fabric API
 - Fabric Language Kotlin
 - Ferrite Core
-- Higl Level Enchants
+- High Level Enchants
 - Holycube 6 Mod
 - Holy Wrench
 - Indium
