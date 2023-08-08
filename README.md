@@ -5,43 +5,59 @@ Download the latest version of the modpack via [Technic Launcher](https://www.te
 
 ## Server side
 Download the latest version of the server files [here](https://github.com/Captn138/holyjaaj-vanillaplus-modpack-server/releases/latest/download/server.zip).
-You will need to add the [fabric mod loader](https://fabricmc.net/) in version `1.18.2`.
-You will also need Java version 17 to run the server.
+Then run the `start.sh` to install and run the server.
 
 ## Mods list
+- Ambient Sounds
+- Amplified Nether
 - Anti Ghost
 - Appleskin
 - Architectury
 - Bad Packets
+- Better Animations Collection
 - Cloth Config
 - Clumps
-- Controlling
 - Continuity
-- Damage Tilt
+- Controlling
+- Creative Core
+- Dynmap
 - Dynamic FPS
 - Easier Villager Trading
+- EMI
 - Fabric API
 - Fabric Language Kotlin
 - Ferrite Core
-- High Level Enchants
-- Holycube 6 Mod
-- Holy Wrench
+- Forge Config API Port
+- FTB Backups 2
 - Indium
-- Inventory HUD
-- Iris
+- Inventory HUD +
+- Iris Shaders
 - Jade
+- Jamlib
+- JEI
 - Journey Map
 - Krypton
-- Lamb Dynamic Lights
 - Light Overlay
 - Lithium
-- Luck Perms
-- Minecraft Capes
+- Mc2Discord
 - Mod Menu
 - Mouse Tweaks
-- Roughly Enough Items
-- Simple Voice Chat
+- Not Enough Animations
+- Nullscape
+- Open Parties And Claims
+- OwO Lib
+- Polylib
+- Puzzleslib
+- Regions Unexplored
+- Right Click Harvest
+- Searchables
 - Sleep Warp
 - Sodium
-- Starlight
-- Wraith Waystones
+- Sound Physics
+- Terra Blender
+- Terralith
+- Voice Chat Interactions
+- Voice Chat
+- Fabric Waystones
+- Yet Another Config Lib
+- Zoomify
