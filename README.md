@@ -17,18 +17,25 @@ Then run the `start.sh` to install and run the server.
 - Better Animations Collection
 - Cloth Config
 - Clumps
+- Collective
 - Continuity
 - Controlling
 - Creative Core
+- Do A Barrel Roll
 - Dynmap
 - Dynamic FPS
 - Easier Villager Trading
+- Elytra/Chestplate Swapper
 - EMI
 - Fabric API
 - Fabric Language Kotlin
 - Ferrite Core
 - Forge Config API Port
 - FTB Backups 2
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- Iceberg
 - Indium
 - Inventory HUD +
 - Iris Shaders
@@ -36,28 +43,33 @@ Then run the `start.sh` to install and run the server.
 - Jamlib
 - JEI
 - Journey Map
+- Journey Map Integration
 - Krypton
+- Legendary Tooltips
 - Light Overlay
 - Lithium
 - Mc2Discord
+- Mob Plaques
 - Mod Menu
 - Mouse Tweaks
 - Not Enough Animations
 - Nullscape
-- Open Parties And Claims
 - OwO Lib
 - Polylib
+- Prism
 - Puzzleslib
 - Regions Unexplored
 - Right Click Harvest
 - Searchables
+- Show Me What You Got
 - Sleep Warp
 - Sodium
 - Sound Physics
 - Terra Blender
 - Terralith
+- Villager Names
 - Voice Chat Interactions
 - Voice Chat
-- Fabric Waystones
+- Waystones
 - Yet Another Config Lib
 - Zoomify
