@@ -14,6 +14,7 @@ Then run the `start.sh` to install and run the server.
 - Appleskin
 - Architectury
 - Bad Packets
+- Balm
 - Better Animations Collection
 - Cloth Config
 - Clumps
