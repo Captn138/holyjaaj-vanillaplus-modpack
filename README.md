@@ -15,21 +15,29 @@ Then run the `start.sh` to install and run the server.
 - Architectury
 - Bad Packets
 - Balm
+- Better Advancements
 - Better Animations Collection
+- Better F3
+- Better Ping Display
+- Chat Heads
 - Cloth Config
 - Clumps
 - Collective
 - Continuity
 - Controlling
+- Crafting Tweaks
 - Creative Core
 - Do A Barrel Roll
 - Dynmap
 - Dynamic FPS
 - Easier Villager Trading
+- Easy Anvils
+- Easy Magic
 - Elytra/Chestplate Swapper
 - EMI
 - Fabric API
 - Fabric Language Kotlin
+- Falling Tree
 - Ferrite Core
 - Forge Config API Port
 - FTB Backups 2
@@ -38,7 +46,9 @@ Then run the `start.sh` to install and run the server.
 - FTB Teams
 - Iceberg
 - Indium
+- Infinity With Mending
 - Inventory HUD +
+- Inventory Sorter
 - Iris Shaders
 - Jade
 - Jamlib
@@ -49,13 +59,20 @@ Then run the `start.sh` to install and run the server.
 - Legendary Tooltips
 - Light Overlay
 - Lithium
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Trapdoors
 - Mc2Discord
+- Mindful Darkness
 - Mob Plaques
 - Mod Menu
 - Mouse Tweaks
+- No Chat reports
 - Not Enough Animations
 - Nullscape
 - OwO Lib
+- Pick Up Notifier
+- Ping Wheel
 - Polylib
 - Prism
 - Puzzleslib
@@ -69,6 +86,7 @@ Then run the `start.sh` to install and run the server.
 - Terra Blender
 - Terralith
 - Villager Names
+- Visual Workbench
 - Voice Chat Interactions
 - Voice Chat
 - Waystones
