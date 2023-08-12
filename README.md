@@ -9,6 +9,7 @@ Then run the `start.sh` to install and run the server.
 
 ## Mods list
 - Ambient Sounds
+- Amecs
 - Amplified Nether
 - Anti Ghost
 - Appleskin
@@ -19,6 +20,7 @@ Then run the `start.sh` to install and run the server.
 - Better Animations Collection
 - Better F3
 - Better Ping Display
+- Cardinal Components
 - Chat Heads
 - Cloth Config
 - Clumps
@@ -44,6 +46,7 @@ Then run the `start.sh` to install and run the server.
 - FTB Chunks
 - FTB Library
 - FTB Teams
+- Gilded Armor
 - Iceberg
 - Indium
 - Infinity With Mending
@@ -85,6 +88,8 @@ Then run the `start.sh` to install and run the server.
 - Sound Physics
 - Terra Blender
 - Terralith
+- Traveler's Backpack
+- Trinkets
 - Villager Names
 - Visual Workbench
 - Voice Chat Interactions
