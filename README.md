@@ -59,6 +59,8 @@ Then run the `start.sh` to install and run the server.
 - Journey Map
 - Journey Map Integration
 - Krypton
+- Ledger
+- Ledger-Databases
 - Legendary Tooltips
 - Light Overlay
 - Lithium
