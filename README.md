@@ -8,115 +8,116 @@ Download the latest version of the server files [here](https://github.com/Captn1
 Then run the `start.sh` to install and run the server.
 
 ## Mods list
-- Ambient Sounds
-- Amecs
-- Amplified Nether
-- Anti Ghost
-- Appleskin
-- Architectury
-- Bad Packets
-- Balm
-- Better Advancements
-- Better Animations Collection
-- Better F3
-- Better Ping Display
-- Better Smithing Table
-- Better Statistics Screen
-- Cardinal Components
-- Chat Heads
-- Clean Tooltips
-- Cloth Config
-- Clumps
-- Collective
-- Continuity
-- Controlling
-- Corgi Lib
-- Crafting Tweaks
-- Creative Core
-- Cupboard
-- Dark Loading Screen
-- Do A Barrel Roll
-- Dynmap
-- Dynamic FPS
-- Easier Villager Trading
-- Easy Anvils
-- Easy Magic
-- Elytra/Chestplate Swapper
-- EMI
-- Enhanced Celestials
-- Fabric API
-- Fabric Language Kotlin
-- Falling Tree
-- Farsight
-- Ferrite Core
-- Forge Config API Port
-- FTB Backups 2
-- FTB Chunks
-- FTB Library
-- FTB Teams
-- Game Menu Remove GFARB
-- Gilded Armor
-- Hey That's Mine
-- Iceberg
-- Indium
-- Infinity With Mending
-- Inventory HUD +
-- Inventory Sorter
-- Inventory Totem
-- Iris Shaders
-- Jade
-- Jamlib
-- JEI
-- Journey Map
-- Journey Map Integration
-- Krypton
-- Labels
-- Ledger
-- Ledger-Databases
-- Legendary Tooltips
-- Light Overlay
-- Lithium
-- Macaw's Bridges
-- Macaw's Doors
-- Macaw's Trapdoors
-- Mc2Discord
-- Mindful Darkness
-- Mob Plaques
-- Mod Menu
-- Moonlight
-- Mouse Tweaks
-- No Chat reports
-- No Resource Pack Warnings
-- Not Enough Animations
-- Nullscape
-- OwO Lib
-- Pick Up Notifier
-- Ping Wheel
-- Polylib
-- Presence Footsteps
-- Prism
-- Puzzleslib
-- Reese's Sodium Options
-- Regions Unexplored
-- Right Click Harvest
-- Searchables
-- Show Me What You Got
-- Sleep Warp
-- Smooth Chunks Saving
-- Sodium
-- Sodium Extra
-- Sound Physics
-- TCD Commons
-- Terra Blender
-- Terralith
-- Trash Slot
-- Traveler's Backpack
-- Trinkets
-- Universal Shops
-- Villager Names
-- Visual Workbench
-- Voice Chat Interactions
-- Voice Chat
-- Waystones
-- Yet Another Config Lib
-- Zoomify
+**__Liste de tous les mods (112) :__** 
+- Ambient Sounds -c
+- Amecs -c
+- Amplified Nether -cs
+- Anti Ghost -c
+- Appleskin -cs
+- Architectury -cs
+- Bad Packets -cs
+- Balm -cs
+- Better Advancements -c
+- Better Animations Collection -c
+- Better F3 -c
+- Better Ping Display -c
+- Better Smithing Table -c
+- Better Statistics Screen -cs
+- Cardinal Components -c
+- Chat Heads -c
+- Clean Tooltips -c
+- Cloth Config -cs
+- Clumps -cs
+- Collective -cs
+- Continuity -c
+- Controlling -c
+- Corgi Lib -cs
+- Crafting Tweaks -cs
+- Creative Core -cs
+- Cupboard -cs
+- Dark Loading Screen -c
+- Do A Barrel Roll -cs
+- Dynmap -s
+- Dynamic FPS -c
+- Easier Villager Trading -c
+- Easy Anvils -cs
+- Easy Magic -cs
+- Elytra/Chestplate Swapper -c
+- EMI -cs
+- Enhanced Celestials -cs
+- Fabric API -cs
+- Fabric Language Kotlin -cs
+- Falling Tree -cs
+- Farsight -c
+- Ferrite Core -cs
+- Forge Config API Port -cs
+- FTB Backups 2 -s
+- FTB Chunks -cs
+- FTB Library -cs
+- FTB Teams -cs
+- Game Menu Remove GFARB -c
+- Gilded Armor -cs
+- Hey That's Mine -s
+- Iceberg -c
+- Indium -c
+- Infinity With Mending -cs
+- Inventory HUD + -c
+- Inventory Sorter -cs
+- Inventory Totem -cs
+- Iris Shaders -c(s)
+- Jade -cs
+- Jamlib -cs
+- JEI -cs
+- Journey Map -cs
+- Journey Map Integration -cs
+- Krypton -cs
+- Labels -cs
+- Ledger -s
+- Ledger-databases -s
+- Legendary Tooltips -c
+- Light Overlay -c
+- Lithium -cs
+- Macaw's Bridges -cs
+- Macaw's Doors -cs
+- Macaw's Trapdoors -cs
+- Mc2Discord -s
+- Mindful Darkness -c
+- Mob Plaques -c
+- Mod Menu -c
+- Moonlight -cs
+- Mouse Tweaks -c
+- No Chat reports -cs
+- No Resource Pack Warnings -c
+- Not Enough Animations -c
+- Nullscape -cs
+- OwO Lib -cs
+- Pick Up Notifier -cs
+- Ping Wheel -cs
+- Polylib -cs
+- Presence Footsteps -c
+- Prism -c
+- Puzzleslib -cs
+- Reese's Sodium Options -c
+- Regions Unexplored -cs
+- Right Click Harvest -cs
+- Searchables -c
+- Show Me What You Got -cs
+- Sleep Warp -cs
+- Smooth Chunks Saving -s
+- Sodium -cs
+- Sodium Extra -c
+- Sound Physics -cs
+- TCD Commons -cs
+- Terra Blender -cs
+- Terralith -cs
+- Trash Slot -cs
+- Traveler's Backpack -cs
+- Trinkets -cs
+- Universal Shops -cs
+- Villager Names -cs
+- Visual Workbench -cs
+- Voice Chat Interactions -cs
+- Voice Chat -cs
+- Waystones -cs
+- Yet Another Config Lib -cs
+- Zoomify -c
