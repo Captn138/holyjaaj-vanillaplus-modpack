@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-zip server.zip ./* -x $(cat .gitignore | xargs) README.md zip.sh @
+rm -f server.zip
+zip -r server.zip ./* -x $(cat .gitignore | xargs) README.md zip.sh @
