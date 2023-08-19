@@ -20,15 +20,21 @@ Then run the `start.sh` to install and run the server.
 - Better Animations Collection
 - Better F3
 - Better Ping Display
+- Better Smithing Table
+- Better Statistics Screen
 - Cardinal Components
 - Chat Heads
+- Clean Tooltips
 - Cloth Config
 - Clumps
 - Collective
 - Continuity
 - Controlling
+- Corgi Lib
 - Crafting Tweaks
 - Creative Core
+- Cupboard
+- Dark Loading Screen
 - Do A Barrel Roll
 - Dynmap
 - Dynamic FPS
@@ -37,21 +43,26 @@ Then run the `start.sh` to install and run the server.
 - Easy Magic
 - Elytra/Chestplate Swapper
 - EMI
+- Enhanced Celestials
 - Fabric API
 - Fabric Language Kotlin
 - Falling Tree
+- Farsight
 - Ferrite Core
 - Forge Config API Port
 - FTB Backups 2
 - FTB Chunks
 - FTB Library
 - FTB Teams
+- Game Menu Remove GFARB
 - Gilded Armor
+- Hey That's Mine
 - Iceberg
 - Indium
 - Infinity With Mending
 - Inventory HUD +
 - Inventory Sorter
+- Inventory Totem
 - Iris Shaders
 - Jade
 - Jamlib
@@ -59,6 +70,7 @@ Then run the `start.sh` to install and run the server.
 - Journey Map
 - Journey Map Integration
 - Krypton
+- Labels
 - Ledger
 - Ledger-Databases
 - Legendary Tooltips
@@ -71,27 +83,36 @@ Then run the `start.sh` to install and run the server.
 - Mindful Darkness
 - Mob Plaques
 - Mod Menu
+- Moonlight
 - Mouse Tweaks
 - No Chat reports
+- No Resource Pack Warnings
 - Not Enough Animations
 - Nullscape
 - OwO Lib
 - Pick Up Notifier
 - Ping Wheel
 - Polylib
+- Presence Footsteps
 - Prism
 - Puzzleslib
+- Reese's Sodium Options
 - Regions Unexplored
 - Right Click Harvest
 - Searchables
 - Show Me What You Got
 - Sleep Warp
+- Smooth Chunks Saving
 - Sodium
+- Sodium Extra
 - Sound Physics
+- TCD Commons
 - Terra Blender
 - Terralith
+- Trash Slot
 - Traveler's Backpack
 - Trinkets
+- Universal Shops
 - Villager Names
 - Visual Workbench
 - Voice Chat Interactions
