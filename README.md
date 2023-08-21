@@ -8,13 +8,14 @@ Download the latest version of the server files [here](https://github.com/Captn1
 Then run the `start.sh` to install and run the server.
 
 ## Mods list
-**__Liste de tous les mods (127) :__** 
+**__Liste de tous les mods (132) :__** 
 - [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) -c
 - [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs) -c
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) -cs
 - [Anti Ghost](https://www.curseforge.com/minecraft/mc-mods/antighost) -c
 - [Anti Xray](https://www.curseforge.com/minecraft/mc-mods/antixray) -s
 - [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) -cs
+- [Archer's Arsenal](https://www.curseforge.com/minecraft/mc-mods/archarsenal) -cs
 - [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api) -cs
 - [Bad Packets](https://www.curseforge.com/minecraft/mc-mods/badpackets) -cs
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric) -cs
@@ -27,6 +28,7 @@ Then run the `start.sh` to install and run the server.
 - [Better Trim Tooltips](https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips) -c
 - [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) -c
 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) -cs
+- [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod) -c
 - [Cardinal Components](https://www.curseforge.com/minecraft/mc-mods/cardinal-components) -c
 - [Charm of Undying](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying) -cs
 - [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) -c
@@ -51,6 +53,7 @@ Then run the `start.sh` to install and run the server.
 - [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic) -cs
 - [Elytra/Chestplate Swapper](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper) -c
 - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) -cs
+- [Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric) -cs
 - [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials-fabric) -cs
 - [Extra Details](https://www.curseforge.com/minecraft/mc-mods/pandas-extra-details) -c
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) -cs
@@ -72,6 +75,7 @@ Then run the `start.sh` to install and run the server.
 - [Inventory HUD +](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) -c
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting) -cs
 - [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) -c(s)
+- [Item Obliterator](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) -cs
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) -cs
 - [Jamlib](https://www.curseforge.com/minecraft/mc-mods/jamlib) -cs
 - [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) -cs
@@ -123,6 +127,7 @@ Then run the `start.sh` to install and run the server.
 - [TCD Commons API](https://www.curseforge.com/minecraft/mc-mods/tcdcommons) -cs
 - [Terra Blender](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) -cs
 - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) -cs
+- [Tiny Coal](https://www.curseforge.com/minecraft/mc-mods/tiny-coal) -cs
 - [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) -s
 - [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot-fabric-edition) -cs
 - [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric) -cs
@@ -144,6 +149,5 @@ Then run the `start.sh` to install and run the server.
 - Complementary Reimagined
 
 **__Liste de tous les datapacks:__**
-- Holycube 6 Recipes
 - World Pregen
-- Name Tag Recipe
+- Holyjaaj Addons (basé sur "Name Tag Recipe" et "Holycube 6 Recipes")

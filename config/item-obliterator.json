@@ -1,0 +1,22 @@
+{
+  "blacklisted_items": [
+    "//Items here will be unusable completely",
+    "enderitemod:enderite_respawn_anchor",
+    "enderitemod:enderite_elytra",
+    "enderitemod:enderite_elytra_seperated",
+    "enderitemod:enderite_shield",
+    "enderitemod:enderite_crossbow",
+    "enderitemod:enderite_shears",
+    "archers_arsenal:villager_arrow",
+    "archers_arsenal:quiver",
+    "archers_arsenal:bow_leather"
+  ],
+  "only_disable_interactions": [
+    "//Items here will not be able to be right-clicked (Interact)",
+    "examplemod:example_item"
+  ],
+  "only_disable_attacks": [
+    "//Items here will not be able to be used to attack",
+    "examplemod:example_item"
+  ]
+}
