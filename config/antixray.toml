@@ -27,4 +27,4 @@ engineMode = 1
 maxBlockHeight = 128
 updateRadius = 2
 lavaObscures = true
-hiddenBlocks = ["enderite_ore", "cracked_enderite_ore"]
+hiddenBlocks = ["enderitemod:enderite_ore", "enderitemod:cracked_enderite_ore"]
