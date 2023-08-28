@@ -8,7 +8,7 @@ Download the latest version of the server files [here](https://github.com/Captn1
 Then run the `start.sh` to install and run the server.
 
 ## Mods list
-**__Liste de tous les mods (132) :__** 
+**__Liste de tous les mods (130) :__** 
 - [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) -c
 - [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs) -c
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) -cs
@@ -26,7 +26,6 @@ Then run the `start.sh` to install and run the server.
 - [Better Smithing Table](https://www.curseforge.com/minecraft/mc-mods/bettersmithingtable) -c
 - [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats) -cs
 - [Better Trim Tooltips](https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips) -c
-- [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) -c
 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) -cs
 - [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod) -c
 - [Cardinal Components](https://www.curseforge.com/minecraft/mc-mods/cardinal-components) -c
@@ -55,7 +54,6 @@ Then run the `start.sh` to install and run the server.
 - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) -cs
 - [Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric) -cs
 - [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials-fabric) -cs
-- [Extra Details](https://www.curseforge.com/minecraft/mc-mods/pandas-extra-details) -c
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) -cs
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) -cs
 - [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree) -cs
