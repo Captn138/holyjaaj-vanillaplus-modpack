@@ -9,7 +9,7 @@ Then run the `start.sh` to install and run the server.
 
 ## Mods list
 > -c is for client, -s if for server, -cs is for both
-**__List of all the mods (132) :__** 
+**__List of all the mods (135) :__** 
 - [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) -c
 - [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs) -c
 - [Anti Ghost](https://www.curseforge.com/minecraft/mc-mods/antighost) -c
@@ -17,6 +17,7 @@ Then run the `start.sh` to install and run the server.
 - [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) -cs
 - [Archer's Arsenal](https://www.curseforge.com/minecraft/mc-mods/archarsenal) -cs
 - [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api) -cs
+- [AzureLib](https://www.curseforge.com/minecraft/mc-mods/azurelib) -cs
 - [Bad Packets](https://www.curseforge.com/minecraft/mc-mods/badpackets) -cs
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric) -cs
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) -c
