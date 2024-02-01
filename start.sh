@@ -9,7 +9,7 @@ x86_64)
         ;;
 esac
 MC_VERSION=1.20.1
-FABCIC_VERSION=0.14.22
+FABCIC_VERSION=0.15.5
 INSTALLER_VERSION=0.11.2
 FABRIC_URL=https://meta.fabricmc.net/v2/versions/loader/${MC_VERSION}/${FABCIC_VERSION}/${INSTALLER_VERSION}/server/jar
 JAVA_TAR=openjdk-17.0.2_linux-${CPU_ARCH}_bin.tar.gz
