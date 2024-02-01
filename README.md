@@ -101,6 +101,7 @@ Then run the `start.sh` to install and run the server.
 - [More Advancements](https://www.curseforge.com/minecraft/mc-mods/more-advancements-mod-fabric) -cs
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) -c
 - [Nameplate](https://www.curseforge.com/minecraft/mc-mods/nameplate) -cs
+- [Necronomicon API](https://www.curseforge.com/minecraft/mc-mods/necronomicon) -cs
 - [Nicer Skies](https://www.curseforge.com/minecraft/mc-mods/nicer-skies) -c
 - [No Chat reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) -cs
 - [No Resource Pack Warnings](https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings) -c
