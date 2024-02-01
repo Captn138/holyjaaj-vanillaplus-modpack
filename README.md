@@ -8,10 +8,10 @@ Download the latest version of the server files [here](https://github.com/Captn1
 Then run the `start.sh` to install and run the server.
 
 ## Mods list
-**__Liste de tous les mods (130) :__** 
+> -c is for client, -s if for server, -cs is for both
+**__List of all the mods (132) :__** 
 - [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) -c
 - [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs) -c
-- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) -cs
 - [Anti Ghost](https://www.curseforge.com/minecraft/mc-mods/antighost) -c
 - [Anti Xray](https://www.curseforge.com/minecraft/mc-mods/antixray) -s
 - [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) -cs
@@ -23,7 +23,6 @@ Then run the `start.sh` to install and run the server.
 - [Better Animations Collection](https://www.curseforge.com/minecraft/mc-mods/better-animations-collection) -c
 - [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3) -c
 - [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric) -c
-- [Better Smithing Table](https://www.curseforge.com/minecraft/mc-mods/bettersmithingtable) -c
 - [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats) -cs
 - [Better Trim Tooltips](https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips) -c
 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) -cs
@@ -38,19 +37,19 @@ Then run the `start.sh` to install and run the server.
 - [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) -c
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) -c
 - [Corgi Lib](https://www.curseforge.com/minecraft/mc-mods/corgilib) -cs
+- [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) -cs
 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks-fabric) -cs
 - [Creative Core](https://www.curseforge.com/minecraft/mc-mods/creativecore) -cs
 - [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) -cs
 - [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen) -c
 - [Death Backup](https://www.curseforge.com/minecraft/mc-mods/death-backup) -s
-- [Do A Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) -cs
-- [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) -s
 - [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) -c
 - [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric) -s
 - [Easier Villager Trading](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading) -c
 - [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils) -cs
 - [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic) -cs
 - [Elytra/Chestplate Swapper](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper) -c
+- [Eldritch End](https://www.curseforge.com/minecraft/mc-mods/eldritch-end) -cs
 - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) -cs
 - [Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric) -cs
 - [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials-fabric) -cs
@@ -58,6 +57,7 @@ Then run the `start.sh` to install and run the server.
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) -cs
 - [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree) -cs
 - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) -c
+- [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping) -c
 - [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) -cs
 - [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric) -cs
 - [FTB Backups 2](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2) -s
@@ -66,7 +66,6 @@ Then run the `start.sh` to install and run the server.
 - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric) -cs
 - [Game Menu Remove GFARB](https://www.curseforge.com/minecraft/mc-mods/game-menu-remove-gfarb) -c
 - [Gilded Armor](https://www.curseforge.com/minecraft/mc-mods/gildedarmor) -cs
-- [Hey That's Mine](https://www.curseforge.com/minecraft/mc-mods/htm) -s
 - [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric) -c
 - [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) -c
 - [Infinity With Mending](https://www.curseforge.com/minecraft/mc-mods/infinity-with-mending) -cs
@@ -77,12 +76,15 @@ Then run the `start.sh` to install and run the server.
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) -cs
 - [Jamlib](https://www.curseforge.com/minecraft/mc-mods/jamlib) -cs
 - [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) -cs
+- [JobsAddon](https://www.curseforge.com/minecraft/mc-mods/jobsaddon) -cs
 - [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) -cs
 - [Journey Map Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration) -cs
 - [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) -cs
+- [Labelling Containers](https://www.curseforge.com/minecraft/mc-mods/labelling-containers) -cs
 - [Ledger](https://www.curseforge.com/minecraft/mc-mods/ledger) -s
 - [Ledger Databases](https://www.curseforge.com/minecraft/mc-mods/ledger-databases) -s
 - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric) -c
+- [LevelZ](https://www.curseforge.com/minecraft/mc-mods/levelz) -cs
 - [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) -c
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) -cs
 - [Login Protection](https://curseforge.com/minecraft/mc-mods/login-protection) -s
@@ -93,14 +95,16 @@ Then run the `start.sh` to install and run the server.
 - [Mindful Darkness](https://www.curseforge.com/minecraft/mc-mods/mindful-darkness) -c
 - [Mob Plaques](https://www.curseforge.com/minecraft/mc-mods/mob-plaques) -c
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) -c
+- [Moog's End Structures](https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures) -cs
 - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) -cs
 - [More Advancements](https://www.curseforge.com/minecraft/mc-mods/more-advancements-mod-fabric) -cs
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) -c
+- [Nameplate](https://www.curseforge.com/minecraft/mc-mods/nameplate) -cs
 - [Nicer Skies](https://www.curseforge.com/minecraft/mc-mods/nicer-skies) -c
 - [No Chat reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) -cs
 - [No Resource Pack Warnings](https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings) -c
 - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) -c
-- [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape) -cs
+- [OpenBlocks Elevators](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator-fabric) -cs
 - [OwO Lib](https://www.curseforge.com/minecraft/mc-mods/owo-lib) -cs
 - [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) -cs
 - [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel) -cs
@@ -109,28 +113,27 @@ Then run the `start.sh` to install and run the server.
 - [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-fabric) -c
 - [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) -cs
 - [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) -c
-- [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored) -cs
 - [Resource Pack Overrides](https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides) -c
 - [Right Click Harvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest) -cs
+- [RPG Difficulty](https://www.curseforge.com/minecraft/mc-mods/rpgdifficulty) -cs
 - [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) -c
 - [Show Me What You Got](https://www.curseforge.com/minecraft/mc-mods/show-me-what-you-got) -cs
-- [Sleep Warp](https://www.curseforge.com/minecraft/mc-mods/sleep-warp) -cs
+- [Sleeping Overhaul 2](https://www.curseforge.com/minecraft/mc-mods/sleeping-overhaul-2) -cs
 - [Smooth Chunks Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save) -s
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) -cs
 - [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) -c
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) -cs
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) -s
 - [Stack Refill](https://www.curseforge.com/minecraft/mc-mods/stack-refill) -c
-- [Storage Labels](https://www.curseforge.com/minecraft/mc-mods/labels) -cs
 - [TCD Commons API](https://www.curseforge.com/minecraft/mc-mods/tcdcommons) -cs
-- [Terra Blender](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) -cs
-- [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) -cs
 - [Tiny Coal](https://www.curseforge.com/minecraft/mc-mods/tiny-coal) -cs
+- [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge) -cs
 - [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) -s
 - [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot-fabric-edition) -cs
 - [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric) -cs
 - [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets) -cs
-- [Universal Shops](https://www.curseforge.com/minecraft/mc-mods/universal-shops) -cs
+- [Vanity Slots](https://www.curseforge.com/minecraft/mc-mods/vanityslots) -cs
+- [What Are They Up To](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) -cs
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) -cs
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) -cs
 - [Voice Chat Interactions](https://www.curseforge.com/minecraft/mc-mods/voice-chat-interaction) -cs
@@ -140,12 +143,12 @@ Then run the `start.sh` to install and run the server.
 - [Yet Another Config Lib](https://www.curseforge.com/minecraft/mc-mods/yacl) -cs
 - [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify) -c
 
-**__Liste de tous les resourcepacks :__**
+**__List of all the resourcepacks :__**
 - Fancy Boss Bars
 
-**__Liste de tous les shaderpacks:__**
+**__List of all the shaderpacks:__**
 - Complementary Reimagined
 
-**__Liste de tous les datapacks:__**
+**__List of all the datapacks:__**
 - World Pregen
-- Holyjaaj Addons (basé sur "Name Tag Recipe" et "Holycube 6 Recipes")
+- Holyjaaj Addons (based "Name Tag Recipe", "Holycube 6 Recipes", and more)
