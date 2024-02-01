@@ -85,6 +85,7 @@ Then run the `start.sh` to install and run the server.
 - [Ledger Databases](https://www.curseforge.com/minecraft/mc-mods/ledger-databases) -s
 - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric) -c
 - [LevelZ](https://www.curseforge.com/minecraft/mc-mods/levelz) -cs
+- [LibZ](https://www.curseforge.com/minecraft/mc-mods/libz) -cs
 - [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) -c
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) -cs
 - [Login Protection](https://curseforge.com/minecraft/mc-mods/login-protection) -s
