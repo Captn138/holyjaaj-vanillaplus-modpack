@@ -9,7 +9,8 @@
     "enderitemod:enderite_shears",
     "archers_arsenal:villager_arrow",
     "archers_arsenal:quiver",
-    "archers_arsenal:bow_leather"
+    "archers_arsenal:bow_leather",
+    "vinery:calendar"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",
