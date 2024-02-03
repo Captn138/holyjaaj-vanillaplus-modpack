@@ -9,7 +9,7 @@ Then run the `start.sh` to install and run the server.
 
 ## Mods list
 > -c is for client, -s if for server, -cs is for both
-**__List of all the mods (135) :__** 
+**__List of all the mods (142) :__** 
 - [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) -c
 - [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs) -c
 - [Anti Ghost](https://www.curseforge.com/minecraft/mc-mods/antighost) -c
@@ -17,6 +17,7 @@ Then run the `start.sh` to install and run the server.
 - [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin) -cs
 - [Archer's Arsenal](https://www.curseforge.com/minecraft/mc-mods/archarsenal) -cs
 - [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api) -cs
+- [Athena](https://www.curseforge.com/minecraft/mc-mods/athena) -cs
 - [AzureLib](https://www.curseforge.com/minecraft/mc-mods/azurelib) -cs
 - [Bad Packets](https://www.curseforge.com/minecraft/mc-mods/badpackets) -cs
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric) -cs
@@ -26,11 +27,13 @@ Then run the `start.sh` to install and run the server.
 - [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric) -c
 - [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats) -cs
 - [Better Trim Tooltips](https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips) -c
+- [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) -s
 - [Bow Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix) -cs
 - [Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod) -c
 - [Cardinal Components](https://www.curseforge.com/minecraft/mc-mods/cardinal-components) -c
 - [Charm of Undying](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying) -cs
 - [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) -c
+- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) -cs
 - [Clean Tooltips](https://www.curseforge.com/minecraft/mc-mods/clean-tooltips) -c
 - [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) -cs
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) -cs
@@ -52,6 +55,7 @@ Then run the `start.sh` to install and run the server.
 - [Elytra/Chestplate Swapper](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper) -c
 - [Eldritch End](https://www.curseforge.com/minecraft/mc-mods/eldritch-end) -cs
 - [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) -cs
+- [Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft) -cs
 - [Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric) -cs
 - [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials-fabric) -cs
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) -cs
@@ -73,7 +77,6 @@ Then run the `start.sh` to install and run the server.
 - [Inventory HUD +](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) -c
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting) -cs
 - [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) -c(s)
-- [Item Obliterator](https://www.curseforge.com/minecraft/mc-mods/item-obliterator) -cs
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) -cs
 - [Jamlib](https://www.curseforge.com/minecraft/mc-mods/jamlib) -cs
 - [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) -cs
@@ -85,6 +88,8 @@ Then run the `start.sh` to install and run the server.
 - [Ledger](https://www.curseforge.com/minecraft/mc-mods/ledger) -s
 - [Ledger Databases](https://www.curseforge.com/minecraft/mc-mods/ledger-databases) -s
 - [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric) -c
+- [Let's Do API](https://www.curseforge.com/minecraft/mc-mods/do-api) -cs
+- [Let's Do Vinery](https://www.curseforge.com/minecraft/mc-mods/vinery) -cs
 - [LevelZ](https://www.curseforge.com/minecraft/mc-mods/levelz) -cs
 - [LibZ](https://www.curseforge.com/minecraft/mc-mods/libz) -cs
 - [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) -c
@@ -117,6 +122,7 @@ Then run the `start.sh` to install and run the server.
 - [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) -cs
 - [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) -c
 - [Resource Pack Overrides](https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides) -c
+- [Resourcesful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib) -cs
 - [Right Click Harvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest) -cs
 - [RPG Difficulty](https://www.curseforge.com/minecraft/mc-mods/rpgdifficulty) -cs
 - [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) -c
@@ -127,6 +133,7 @@ Then run the `start.sh` to install and run the server.
 - [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) -c
 - [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) -cs
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) -s
+- [Squat Grow](https://www.curseforge.com/minecraft/mc-mods/squat-grow) -cs
 - [Stack Refill](https://www.curseforge.com/minecraft/mc-mods/stack-refill) -c
 - [TCD Commons API](https://www.curseforge.com/minecraft/mc-mods/tcdcommons) -cs
 - [Tiny Coal](https://www.curseforge.com/minecraft/mc-mods/tiny-coal) -cs
